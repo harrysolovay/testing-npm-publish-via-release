@@ -1,9 +1,6 @@
 {
   "name": "testing-npm-publish-via-release",
   "license": "Apache-2.0",
-  "publishConfig": {
-    "access": "public"
-  },
   "type": "module",
   "main": "target/index.js",
   "types": "target/index.d.ts",
